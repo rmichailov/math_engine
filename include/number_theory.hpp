@@ -56,7 +56,7 @@ namespace math_engine::number_theory {
     int64_t nPr(int64_t n, int64_t r, int64_t m);
 
 
-    // 
+    // Chinese remainder theorem
     int64_t chinese_remainder_theorem(const std::vector<int64_t>& x, const std::vector<int64_t>& y);
     
 

@@ -26,6 +26,4 @@ namespace math_engine::linear_algebra {
     Matrix matrix_transpose(const Matrix& A);
     Matrix matrix_inverse(const Matrix& A);
     Matrix matrix_rref(const Matrix& A);
-
-    int64_t matrix_rank(const Matrix& A);
 }
