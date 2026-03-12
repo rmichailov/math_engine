@@ -1,0 +1,4 @@
+linear_algebra_tests 12 0.00075525
+number_theory_tests 27 0.000382415
+probability_tests 37 0.000348776
+---

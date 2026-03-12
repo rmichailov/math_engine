@@ -1,0 +1,48 @@
+Start testing: Mar 12 14:12 Pacific Daylight Time
+----------------------------------------------------------
+1/3 Testing: linear_algebra_tests
+1/3 Test: linear_algebra_tests
+Command: "C:/Users/rober/OneDrive/Programming/math_engine/build/tests/linear_algebra_tests.exe"
+Directory: C:/Users/rober/OneDrive/Programming/math_engine/build/tests
+"linear_algebra_tests" start time: Mar 12 14:12 Pacific Daylight Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"linear_algebra_tests" end time: Mar 12 14:12 Pacific Daylight Time
+"linear_algebra_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: number_theory_tests
+2/3 Test: number_theory_tests
+Command: "C:/Users/rober/OneDrive/Programming/math_engine/build/tests/number_theory_tests.exe"
+Directory: C:/Users/rober/OneDrive/Programming/math_engine/build/tests
+"number_theory_tests" start time: Mar 12 14:12 Pacific Daylight Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"number_theory_tests" end time: Mar 12 14:12 Pacific Daylight Time
+"number_theory_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: probability_tests
+3/3 Test: probability_tests
+Command: "C:/Users/rober/OneDrive/Programming/math_engine/build/tests/probability_tests.exe"
+Directory: C:/Users/rober/OneDrive/Programming/math_engine/build/tests
+"probability_tests" start time: Mar 12 14:12 Pacific Daylight Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"probability_tests" end time: Mar 12 14:12 Pacific Daylight Time
+"probability_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 12 14:12 Pacific Daylight Time

@@ -1,0 +1,17 @@
+# ninja log v6
+823	956	7950531315010990	tests/number_theory_tests.exe	d3aaa3d94644980e
+81	1362	7933246632370173	tests/CMakeFiles/math_engine_tests.dir/number_theory_tests.cpp.obj	d2492f39108b9877
+90	1308	7933246632453219	tests/CMakeFiles/math_engine_tests.dir/probability_tests.cpp.obj	8bc6625854227456
+706	814	7950531313789169	libmath_engine.a	3e6c2647b455d09f
+29	64	7950531577626040	C:/Users/rober/OneDrive/Programming/math_engine/build/CMakeFiles/cmake.verify_globs	f5899f5b318a22ec
+84	710	7950518371138332	CMakeFiles/math_engine.dir/src/number_theory.cpp.obj	eb131b9aa464a9be
+78	703	7950531307668386	CMakeFiles/math_engine.dir/src/linear_algebra.cpp.obj	4e6242a99b95d2cb
+92	658	7950517612424580	tests/CMakeFiles/number_theory_tests.dir/number_theory_tests.cpp.obj	68364a46dc4a0497
+832	963	7950531315175495	tests/probability_tests.exe	574e23b9b23705
+484	587	7950531447250170	tests/linear_algebra_tests.exe	97543ab19ae615bf
+84	711	7933247457485122	CMakeFiles/math_engine.dir/src/probability.cpp.obj	4454db8bb35405e
+51	332	7950531632463843	build.ninja	89a712509df11c1c
+75	446	7933251104879244	tests/CMakeFiles/probability_tests.dir/probability_tests.cpp.obj	de84299c5d070edf
+73	1386	7933246632281647	tests/CMakeFiles/math_engine_tests.dir/linear_algebra_tests.cpp.obj	f4478b546c8658dd
+81	482	7950531443196253	tests/CMakeFiles/linear_algebra_tests.dir/linear_algebra_tests.cpp.obj	dacedb11b6f0e4e4
+42	80	7950531646299160	C:/Users/rober/OneDrive/Programming/math_engine/build/CMakeFiles/cmake.verify_globs	f5899f5b318a22ec
